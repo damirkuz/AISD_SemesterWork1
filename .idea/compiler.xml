@@ -6,10 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="AISD_SemesterWork1" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="AISD_SemesterWork1" target="22" />
-    </bytecodeTargetLevel>
   </component>
 </project>
